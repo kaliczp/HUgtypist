@@ -20,7 +20,7 @@ G:MENU
 
 *:S_LECKE3
 K:12:MENU
-B:                          3. Gyakorlat 1: asdf, jklé
+B:3. Gyakorlat asdf, jklé
 *:LECKE3_D1
 I:(1)
 D:asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf
@@ -40,7 +40,7 @@ G:E_LECKE3
 
 *:S_LECKE4
 K:12:MENU
-B:                          4. Gyakorlat Még nincs meg
+B:4. Gyakorlat Még nincs meg
 G:E_LECKE4
 
 # jump-table
