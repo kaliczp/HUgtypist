@@ -249,6 +249,6 @@ N:MENU
 
 *:MENU
 M: "Magyar gépírótanfolyam"
- :S_LECKE3 "Alaptartás"
- :S_LECKE4 "Alaptartás gyakorlás"
- :S_LECKE5 "Gyakorlás"
+ :S_LECKE3 "3. Gyakorlat asdf, jklé (3 feladat)"
+ :S_LECKE4 "Alaptartás gyakorlás (37 feladat)"
+ :S_LECKE5 "Gyakorlás (x feladat)"
